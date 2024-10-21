@@ -6,6 +6,11 @@ As of version 4 we have moved our changelog to the [GitHub releases]( https://gi
 
 Changes for 3.x releases are included below.
 
+## v0.0.1 / 2024-10-21
+
+* update mongose 4.x to 5.x: https://mongoosejs.com/docs/migrating_to_5.html
+* update mongose 5.x to 6.x: https://mongoosejs.com/docs/migrating_to_6.html
+
 ## v0.3.22 / 2016-07-22
 
 * added; support for automatic SSL with Let's Encrypt, thanks [Wout Mertens](https://github.com/wmertens)
